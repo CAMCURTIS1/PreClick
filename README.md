@@ -1,2 +1,2 @@
 # PreClick
-Browser extension + backend that opens links in a sandboxed VM to detect phishing, malware, and trackers.
+Browser extension + backend that opens links in a headless browser to detect phishing, malware, and trackers.
